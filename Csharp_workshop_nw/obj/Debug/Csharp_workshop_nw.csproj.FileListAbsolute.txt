@@ -1,0 +1,7 @@
+E:\YandexDisk\Учебные_курсы\GeekBrains\Практикум\Csharp_workshop_nw\bin\Debug\Csharp_workshop_nw.exe.config
+E:\YandexDisk\Учебные_курсы\GeekBrains\Практикум\Csharp_workshop_nw\bin\Debug\Csharp_workshop_nw.exe
+E:\YandexDisk\Учебные_курсы\GeekBrains\Практикум\Csharp_workshop_nw\bin\Debug\Csharp_workshop_nw.pdb
+E:\YandexDisk\Учебные_курсы\GeekBrains\Практикум\Csharp_workshop_nw\obj\Debug\Csharp_workshop_nw.csproj.AssemblyReference.cache
+E:\YandexDisk\Учебные_курсы\GeekBrains\Практикум\Csharp_workshop_nw\obj\Debug\Csharp_workshop_nw.csproj.CoreCompileInputs.cache
+E:\YandexDisk\Учебные_курсы\GeekBrains\Практикум\Csharp_workshop_nw\obj\Debug\Csharp_workshop_nw.exe
+E:\YandexDisk\Учебные_курсы\GeekBrains\Практикум\Csharp_workshop_nw\obj\Debug\Csharp_workshop_nw.pdb
