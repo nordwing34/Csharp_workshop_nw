@@ -1,0 +1,7 @@
+E:\YandexDisk\Учебные_курсы\GeekBrains\Практикум\Sort_select\bin\Debug\Csharp_workshop_nw.exe.config
+E:\YandexDisk\Учебные_курсы\GeekBrains\Практикум\Sort_select\bin\Debug\Csharp_workshop_nw.exe
+E:\YandexDisk\Учебные_курсы\GeekBrains\Практикум\Sort_select\bin\Debug\Csharp_workshop_nw.pdb
+E:\YandexDisk\Учебные_курсы\GeekBrains\Практикум\Sort_select\obj\Debug\Sort_select.csproj.AssemblyReference.cache
+E:\YandexDisk\Учебные_курсы\GeekBrains\Практикум\Sort_select\obj\Debug\Sort_select.csproj.CoreCompileInputs.cache
+E:\YandexDisk\Учебные_курсы\GeekBrains\Практикум\Sort_select\obj\Debug\Csharp_workshop_nw.exe
+E:\YandexDisk\Учебные_курсы\GeekBrains\Практикум\Sort_select\obj\Debug\Csharp_workshop_nw.pdb
